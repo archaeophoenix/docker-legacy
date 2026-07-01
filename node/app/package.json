@@ -1,8 +1,0 @@
-{
-  "name": "node-app",
-  "version": "1.0.0",
-  "main": "app.js",
-  "scripts": {
-    "dev": "node app.js"
-  }
-}
